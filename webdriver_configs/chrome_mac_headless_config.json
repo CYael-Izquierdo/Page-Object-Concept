@@ -1,0 +1,14 @@
+{
+  "browserName": "chrome",
+  "version": "63",
+  "platform": "MAC",
+  "platformVersion": "10.13.6",
+  "goog:chromeOptions": {
+      "args": [
+        "--start-maximized",
+        "--headless",
+        "--window-size=1920x1080"
+      ]
+
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "browserName": "firefox",
+  "marionette": "True",
+  "platform": "MAC",
+  "moz:firefoxOptions": {
+    "prefs": {
+      "dom.ipc.processCount": 8,
+      "browser.download.folderList": "2",
+      "browser.download.manager.showWhenStarting": "False",
+      "browser.download.dir": "/Users/cibanez/Downloads/",
+      "browser.helperApps.neverAsk.saveToDisk": "('application/vnd.ms-excel')"
+    }
+  }
+}
